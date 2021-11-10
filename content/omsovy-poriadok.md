@@ -1,7 +1,7 @@
 ---
 title: "Omšový poriadok"
 ---
-<todo>doplnit přísahu</todo>
+<todo>doplnit přísahu a další extraordinálie</todo>
 ### Úvodné obrady
 #### Prežehnanie a pozdrav
 k. V mene Otca i Syna i Ducha Svätého.
@@ -37,48 +37,27 @@ k. Pane, zmiluj sa.
 
 #### Oslavná pieseň – glória
 
-<odpoved>Sláva Bohu na výsostiach
-
-a na zemi pokoj ľuďom dobrej vôle.
-
-Chválime ťa, velebíme ťa,
-
-klaniame sa ti, oslavujeme ťa,
-
-vzdávame ti vďaky, lebo veľká je sláva tvoja,
-
-Pane Bože, Kráľ nebeský,
-
-Boh Otec všemohúci.
-
-Pane, Ježišu Kriste, ty jednorodený Syn,
-
-Pán a Boh, Baránok Boží, Syn Otca:
-
-Ty snímaš hriechy sveta,
-
-zmiluj sa nad nami.
-
-Ty snímaš hriechy sveta,
-
-prijmi našu úpenlivú prosbu.
-
-Ty sedíš po pravici Otca,
-
-zmiluj sa nad nami.
-
-Veď len ty si Svätý,
-
-len ty si Pán,
-
-len ty si Najvyšší,
-
-Ježišu Kriste,
-
-s Duchom Svätým
-
-v sláve Boha Otca.
-
+<odpoved>Sláva Bohu na výsostiach</br>
+a na zemi pokoj ľuďom dobrej vôle.</br>
+Chválime ťa, velebíme ťa,</br>
+klaniame sa ti, oslavujeme ťa,</br>
+vzdávame ti vďaky, lebo veľká je sláva tvoja,</br>
+Pane Bože, Kráľ nebeský,</br>
+Boh Otec všemohúci.</br>
+Pane, Ježišu Kriste, ty jednorodený Syn,</br>
+Pán a Boh, Baránok Boží, Syn Otca:</br>
+Ty snímaš hriechy sveta,</br>
+zmiluj sa nad nami.</br>
+Ty snímaš hriechy sveta,</br>
+prijmi našu úpenlivú prosbu.</br>
+Ty sedíš po pravici Otca,</br>
+zmiluj sa nad nami.</br>
+Veď len ty si Svätý,</br>
+len ty si Pán,</br>
+len ty si Najvyšší,</br>
+Ježišu Kriste,</br>
+s Duchom Svätým</br>
+v sláve Boha Otca.</br>
 Amen.</odpoved>
 
 #### Modlitba dňa - kolekta
@@ -119,60 +98,33 @@ k. Počuli sme slovo Pánovo.
 
 #### Vyznanie viery – krédo
 
-<odpoved>Verím v jedného Boha,
-
-Otca všemohúceho, stvoriteľa neba i zeme,
-
-sveta viditeľného i neviditeľného.
-
-Verím v jedného Pána Ježiša Krista,
-
-jednorodeného Syna Božieho,
-
-zrodeného z Otca pred všetkými vekmi;
-
-Boha z Boha, Svetlo zo Svetla,
-
-pravého Boha z Boha pravého,
-
-splodeného, nie stvoreného, jednej podstaty s Otcom.
-
-Skrze neho bolo všetko stvorené.
-
-On pre nás ľudí a pre našu spásu zostúpil z nebies.
-
-A mocou Ducha Svätého vzal si telo z Márie Panny
-
-a stal sa človekom.
-
-Za nás bol aj ukrižovaný za vlády Poncia Piláta,
-
-bol umučený a pochovaný,
-
-ale tretieho dňa vstal z mŕtvych podľa Svätého písma.
-
-A vstúpil do neba, sedí po pravici Otca.
-
-A zasa príde v sláve súdiť živých i mŕtvych
-
-a jeho kráľovstvu nebude konca.
-
-Verím v Ducha Svätého, Pána a Oživovateľa,
-
-ktorý vychádza z Otca i Syna.
-
-Jemu sa zároveň vzdáva
-
-tá istá poklona a sláva ako Otcovi a Synovi.
-
-On hovoril ústami prorokov.
-
-Verím v jednu, svätú, všeobecnú, apoštolskú Cirkev.
-
-Vyznávam jeden krst na odpustenie hriechov
-
-a očakávam vzkriesenie mŕtvych a život budúceho veku.
-
+<odpoved>Verím v jedného Boha,</br>
+Otca všemohúceho, stvoriteľa neba i zeme,</br>
+sveta viditeľného i neviditeľného.</br>
+Verím v jedného Pána Ježiša Krista,</br>
+jednorodeného Syna Božieho,</br>
+zrodeného z Otca pred všetkými vekmi;</br>
+Boha z Boha, Svetlo zo Svetla,</br>
+pravého Boha z Boha pravého,</br>
+splodeného, nie stvoreného, jednej podstaty s Otcom.</br>
+Skrze neho bolo všetko stvorené.</br>
+On pre nás ľudí a pre našu spásu zostúpil z nebies.</br>
+A mocou Ducha Svätého vzal si telo z Márie Panny</br>
+a stal sa človekom.</br>
+Za nás bol aj ukrižovaný za vlády Poncia Piláta,</br>
+bol umučený a pochovaný,</br>
+ale tretieho dňa vstal z mŕtvych podľa Svätého písma.</br>
+A vstúpil do neba, sedí po pravici Otca.</br>
+A zasa príde v sláve súdiť živých i mŕtvych</br>
+a jeho kráľovstvu nebude konca.</br>
+Verím v Ducha Svätého, Pána a Oživovateľa,</br>
+ktorý vychádza z Otca i Syna.</br>
+Jemu sa zároveň vzdáva</br>
+tá istá poklona a sláva ako Otcovi a Synovi.</br>
+On hovoril ústami prorokov.</br>
+Verím v jednu, svätú, všeobecnú, apoštolskú Cirkev.</br>
+Vyznávam jeden krst na odpustenie hriechov</br>
+a očakávam vzkriesenie mŕtvych a život budúceho veku.</br>
 Amen.</odpoved>
 
 #### Modlitba veriacich
@@ -222,16 +174,11 @@ Aby splnil tvoju vôľu a získal ti ľud svätý, rozpäl ruky na kríži, zomr
 
 Preto s anjelmi a so všetkými svätými hlásame tvoju slávu a jedným hlasom voláme:
 
-<odpoved>Svätý, svätý, svätý
-
-Pán Boh všetkých svetov.
-
-Plné sú nebesia i zem tvojej slávy.
-
-Hosanna na výsostiach!
-
-Požehnaný, ktorý prichádza v mene Pánovom.
-
+<odpoved>Svätý, svätý, svätý</br>
+Pán Boh všetkých svetov.</br>
+Plné sú nebesia i zem tvojej slávy.</br>
+Hosanna na výsostiach!</br>
+Požehnaný, ktorý prichádza v mene Pánovom.</br>
 Hosanna na výsostiach!</odpoved>
 
 k. Naozaj si svätý, Otče, ty prameň všetkej svätosti. Preto ťa prosíme, posväť tieto dary rosou svojho Ducha, aby sa nám stali telom a krvou nášho Pána Ježiša Krista.
@@ -258,10 +205,8 @@ toto robte na moju pamiatku.</eucharistie>
 
 #### Tajomstvo viery
 
-<odpoved>Ľ. Smrť tvoju, Pane, zvestujeme
-
-a tvoje zmŕtvychvstanie vyznávame,
-
+<odpoved>Ľ. Smrť tvoju, Pane, zvestujeme</br>
+a tvoje zmŕtvychvstanie vyznávame,</br>
 kým neprídeš v sláve.</odpoved>
 
 k. Keď teda slávime pamiatku smrti a zmŕtvychvstania tvojho Syna, obetujeme ti, Otče, chlieb života a kalich spásy. Ďakujeme ti, že si nás uznal za hodných stáť pred tvojou tvárou a tebe slúžiť.
@@ -282,22 +227,14 @@ Skrze Krista, s Kristom a v Kristovi máš ty, Bože Otče všemohúci, v jednot
 
 k. Na príkaz nášho Spasiteľa a podľa jeho božského učenia osmeľujeme sa povedať:
 
-<odpoved>Otče náš, ktorý si na nebesiach,
-
-posväť sa meno tvoje,
-
-príď kráľovstvo tvoje,
-
-buď vôľa tvoja ako v nebi tak i na zemi.
-
-Chlieb náš každodenný daj nám dnes
-
-a odpusť nám naše viny,
-
-ako i my odpúšťame svojim vinníkom,
-
-a neuveď nás do pokušenia,
-
+<odpoved>Otče náš, ktorý si na nebesiach,</br>
+posväť sa meno tvoje,</br>
+príď kráľovstvo tvoje,</br>
+buď vôľa tvoja ako v nebi tak i na zemi.</br>
+Chlieb náš každodenný daj nám dnes</br>
+a odpusť nám naše viny,</br>
+ako i my odpúšťame svojim vinníkom,</br>
+a neuveď nás do pokušenia,</br>
 ale zbav nás zlého.</odpoved>
 
 k. Prosíme ťa, Otče, zbav nás všetkého zla, udeľ svoj pokoj našim dňom a príď nám milosrdne na pomoc, aby sme boli vždy uchránení pred hriechom a pred každým nepokojom, kým očakávame splnenie blaženej nádeje a príchod nášho Spasiteľa Ježiša Krista.
@@ -319,10 +256,8 @@ k. Dajte si znak pokoja.
 
 k. Telo a krv nášho Pána Ježiša Krista, spojené v tomto kalichu, nech nám prijímajúcim osožia pre život večný.
 
-<odpoved>Ľ. Baránok Boží, ty snímaš hriechy sveta: zmiluj sa nad nami.
-
-Baránok Boží, ty snímaš hriechy sveta: zmiluj sa nad nami.
-
+<odpoved>Ľ. Baránok Boží, ty snímaš hriechy sveta: zmiluj sa nad nami.</br>
+Baránok Boží, ty snímaš hriechy sveta: zmiluj sa nad nami.</br>
 Baránok Boží, ty snímaš hriechy sveta: daruj nám pokoj.</odpoved>
 
 #### Prijímanie

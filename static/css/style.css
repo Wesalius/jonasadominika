@@ -18,7 +18,7 @@ oznameni {
   text-align: center;
   font-family: 'Allura', cursive, bold;
   font-size: 260%;
-  line-height: 220%;
+  line-height: 120%;
   animation: fadein 3s;
   -moz-animation: fadein 3s; /* Firefox */
   -webkit-animation: fadein 3s; /* Safari and Chrome */
