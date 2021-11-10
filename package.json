@@ -1,0 +1,19 @@
+{
+  "name": "jonasadominika-from-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wesalius/jonasadominika.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wesalius/jonasadominika/issues"
+  },
+  "homepage": "https://github.com/Wesalius/jonasadominika#readme"
+}
