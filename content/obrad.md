@@ -8,18 +8,9 @@ Obřad bude mít tyto části:
 
 * liturgický průvod
 * nástup ženicha a nástup nevěsty se zpěvem *Kde je láska opravdivá*
-
-<todo>SEM NOTACI REFRÉNU </todo>
-
-[video na youtube](http://www.youtube.com/watch?v=WiQAyN1xfgI)
-
-
-<todo>DODĚLAT MŠI</todo>
+![](/img/kde_je_laska_opravdiva_antifona.png)
 * úkon kajícnosti
 * bohuslužba slova
-
-
-
 * kázání
 * manžeslký slib a přísaha
 * přímluvy
@@ -29,7 +20,7 @@ Obřad bude mít tyto části:
 * podpis zápisnice
 * závěrečný průvod
 
-Detailní řád mše včetně odpovědí a kompletního textu písně naleznete [v omšovém poriadku]({{< ref "omsovy-poriadok.md" >}}).
+Detailní řád mše včetně odpovědí a kompletního textu písně naleznete [v mešním řádu]({{< ref "omsovy-poriadok.md" >}}).
 
 Po obřadě rádi přijmeme gratulace a poté se přesuneme do Prešova, kde budeme mít veselku.
 
