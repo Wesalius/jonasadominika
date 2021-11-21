@@ -185,22 +185,16 @@ k. Naozaj si svätý, Otče, ty prameň všetkej svätosti. Preto ťa prosíme, 
 
 On, prv než sa dobrovoľne vydal na smrť, vzal chlieb a vzdával vďaky, lámal ho a dával svojim učeníkom, hovoriac:
 
-<eucharistie>vezmite a jedzte z neho všetci:
-
+<eucharistie>vezmite a jedzte z neho všetci:</br>
 toto je moje telo, ktoré sa obetuje za vás.</eucharistie>
 
 Podobne po večeri vzal kalich, znova vzdával vďaky a dal ho svojim učeníkom, hovoriac:
 
-<eucharistie>vezmite a pite z neho všetci:
-
+<eucharistie>vezmite a pite z neho všetci:</br>
 toto je kalich mojej krvi,
-
-ktorá sa vylieva za vás i za všetkých
-
-na odpustenie hriechov.
-
-Je to krv novej a večnej zmluvy.
-
+ktorá sa vylieva za vás i za všetkých</br>
+na odpustenie hriechov.</br></br>
+Je to krv novej a večnej zmluvy.</br>
 toto robte na moju pamiatku.</eucharistie>
 
 #### Tajomstvo viery

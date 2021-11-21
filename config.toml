@@ -1,43 +1,85 @@
-baseURL = '/'
-languageCode = 'cs-CZ'
-title = 'svatba Jonáš a Dominika'
+baseURL = "/"
+languageCode = "cs-cz"
+title = "svatba Jonáš a Dominika"
 
-[[menu.main]]
-    url = "/"
-    name = "Úvod"
-    weight = 1
-
-[[menu.main]]
-    url = "/lokalita/"
-    name = "Lokalita"
-    weight = 2
-
-[[menu.main]]
-    url = "/obrad/"
-    name = "Obřad"
-    weight = 3
-
-[[menu.main]]
-    url = "/veselka/"
-    name = "Veselka"
-    weight = 4
-
-[[menu.main]]
-    url = "/ubytovani/"
-    name = "Ubytování"
-    weight = 5
-
-[[menu.main]]
-    url = "/saris/"
-    name = "Šariš"
-    weight = 6
-
-[[menu.main]]
-    url = "/slovnik/"
-    name = "Slovník"
-    weight = 7
+defaultContentLanguage = "cs"
+defaultContentLanguageInSubdir = "true"
+disableKinds = ['taxonomy', 'term']
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[languages]
+  [languages.cs]
+    languagedirection = "cs"
+    weight = 1
+    contentDir = "content/cs"
+    languageName = "Česky"
+
+  [languages.sk]
+    weight = 2
+    contentDir = "content/sk"
+    languageName = "Slovensky"
+
+
+[[languages.cs.menu.main]]
+    url = "/cs/"
+    name = "Úvod"
+    weight = 1
+
+[[languages.cs.menu.main]]
+    url = "/cs/lokalita/"
+    name = "Lokalita"
+    weight = 2
+
+[[languages.cs.menu.main]]
+    url = "/cs/obrad/"
+    name = "Obřad"
+    weight = 3
+
+[[languages.cs.menu.main]]
+    url = "/cs/veselka/"
+    name = "Veselka"
+    weight = 4
+
+[[languages.cs.menu.main]]
+    url = "/cs/ubytovani/"
+    name = "Ubytování"
+    weight = 5
+
+[[languages.cs.menu.main]]
+    url = "/cs/saris/"
+    name = "Šariš"
+    weight = 6
+
+[[languages.sk.menu.main]]
+    url = "/sk/"
+    name = "Úvod"
+    weight = 1
+
+[[languages.sk.menu.main]]
+    url = "/sk/lokalita/"
+    name = "Lokalita"
+    weight = 2
+
+[[languages.sk.menu.main]]
+    url = "/sk/sobas/"
+    name = "Sobáš"
+    weight = 3
+
+[[languages.sk.menu.main]]
+    url = "/sk/basavel/"
+    name = "Bašavel"
+    weight = 4
+
+[[languages.sk.menu.main]]
+    url = "/sk/ubytovanie/"
+    name = "Ubytovanie"
+    weight = 5
+
+[[languages.sk.menu.main]]
+    url = "/sk/saris/"
+    name = "Šariš"
+    weight = 6
