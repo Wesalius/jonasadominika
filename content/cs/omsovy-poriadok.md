@@ -2,7 +2,6 @@
 title: "Mešní řád"
 slug: "mesni-rad"
 ---
-<todo>doplnit přísahu a další extraordinálie</todo>
 ### Úvodné obrady
 #### Prežehnanie a pozdrav
 k. V mene Otca i Syna i Ducha Svätého.
@@ -99,33 +98,15 @@ k. Počuli sme slovo Pánovo.
 
 #### Vyznanie viery – krédo
 
-<odpoved>Verím v jedného Boha,</br>
-Otca všemohúceho, stvoriteľa neba i zeme,</br>
-sveta viditeľného i neviditeľného.</br>
-Verím v jedného Pána Ježiša Krista,</br>
-jednorodeného Syna Božieho,</br>
-zrodeného z Otca pred všetkými vekmi;</br>
-Boha z Boha, Svetlo zo Svetla,</br>
-pravého Boha z Boha pravého,</br>
-splodeného, nie stvoreného, jednej podstaty s Otcom.</br>
-Skrze neho bolo všetko stvorené.</br>
-On pre nás ľudí a pre našu spásu zostúpil z nebies.</br>
-A mocou Ducha Svätého vzal si telo z Márie Panny</br>
-a stal sa človekom.</br>
-Za nás bol aj ukrižovaný za vlády Poncia Piláta,</br>
-bol umučený a pochovaný,</br>
-ale tretieho dňa vstal z mŕtvych podľa Svätého písma.</br>
-A vstúpil do neba, sedí po pravici Otca.</br>
-A zasa príde v sláve súdiť živých i mŕtvych</br>
-a jeho kráľovstvu nebude konca.</br>
-Verím v Ducha Svätého, Pána a Oživovateľa,</br>
-ktorý vychádza z Otca i Syna.</br>
-Jemu sa zároveň vzdáva</br>
-tá istá poklona a sláva ako Otcovi a Synovi.</br>
-On hovoril ústami prorokov.</br>
-Verím v jednu, svätú, všeobecnú, apoštolskú Cirkev.</br>
-Vyznávam jeden krst na odpustenie hriechov</br>
-a očakávam vzkriesenie mŕtvych a život budúceho veku.</br>
+<odpoved>Verím v Boha, Otca všemohúceho, stvoriteľa neba i zeme,
+i v Ježiša Krista, jeho jediného Syna, nášho Pána, ktorý sa počal z Ducha Svatého,
+narodil sa z Márie Panny, trpel za vlády poncia Piláta,
+bol ukrižovaný, umrel a bol pochovaný, zostúpil k zosnulým,
+tretieho dňa vstal z mrtvých, vystúpil na nebesia,
+sedí po pravici Boha Otca všemohúceho, odtiaľ príde súdiť živých i mŕtvych.
+Verím v Ducha Svatého, v svatú Cirkev katolícku,
+v spoločenstvo svatých, v odpustenie hriechov,
+vo vzkriesenie tela a v život večný.
 Amen.</odpoved>
 
 #### Modlitba veriacich
@@ -134,17 +115,10 @@ Amen.</odpoved>
 
 #### Príprava obetných darov
 
-k. Dobrorečíme ti, Bože, Pane svetov, že sme z tvojej štedrosti prijali tento chlieb. Obetujeme ho tebe ako plod zeme a práce ľudských rúk, aby sa nám stal chlebom života.
+[Kde je láska opravdivá]({{< ref "kde-je-laska-opravdiva.md" >}})
+![](/img/Kde_je_láska_opravdivá_floralwhite.png)
 
-<odpoved>Ľ. Zvelebený Boh naveky!</odpoved>
-
-k. Tajomstvo tejto vody a vína nech nás spojí s božstvom Ježiša Krista, ktorý láskavo prijal našu ľudskú prirodzenosť.
-
-Dobrorečíme ti, Bože, Pane svetov, že sme z tvojej štedrosti prijali toto víno. Obetujeme ho tebe ako plod viniča a práce ľudských rúk, aby sa nám stalo duchovným nápojom.
-
-<odpoved>Ľ. Zvelebený Boh naveky!</odpoved>
-
-k. Prijmi nás, Bože, v duchu pokorných a v srdci skrúšených a naša dnešná obeta nech nájde zaľúbenie v tvojich očiach. Pane, zmy zo mňa moju vinu a očisť ma od hriechu. Modlite sa, bratia a sestry, aby sa moja i vaša obeta zaľúbila Bohu Otcu všemohúcemu.
+Modlite sa, bratia a sestry, aby sa moja i vaša obeta zaľúbila Bohu Otcu všemohúcemu.
 
 <odpoved>Ľ. Nech Pán prijme obetu z tvojich rúk na chválu a slávu svojho mena, na úžitok nám i celej svätej Cirkvi</odpoved>
 

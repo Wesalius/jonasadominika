@@ -1,28 +1,26 @@
 ---
-title: "Sobáš"
-slug: "sobas"
+title: "Obrad"
+slug: "obrad"
 ---
-BUDE PO PŘELOŽENÍ NÁSLEDOVAT SLOVENSKÝ TEXT
+Náš svadobný obrad sa uskutoční o 15:00 v rímsko-katolíckom [kostole](http://mapy.cz/s/fumacatoju) spoločně s katolíckou svatou omšou. Pozývame všetkých hostí, nezávisle na vyznaní či vzťahu k Bohu, k účasti. Budeme radi, ak sa pridáte aspoň spevom.
 
-Náš obřad se uskuteční v 15:00 v římsko-katolickém [kostele](http://mapy.cz/s/fumacatoju) společně s katolickou mší. K účasti zveme všechny hosty nezávisle na vyznání či vztahu k Bohu. Budeme rádi, když se přidáte aspoň zpěvem.
+Obrad bude mať tieto časti:
 
-Obřad bude mít tyto části:
-
-* liturgický průvod
-* nástup ženicha a nástup nevěsty se zpěvem *Kde je láska opravdivá*
-![](/img/kde_je_laska_opravdiva_antifona.png)
-* úkon kajícnosti
-* bohuslužba slova
-* kázání
-* manžeslký slib a přísaha
-* přímluvy
-* bohoslužba oběti
-* přijímání
-* závěrečná modlitba
+* liturgický sprievod
+* nástup ženícha a nástup nevesty so spevom [Kde je láska opravdivá]({{< ref "kde-je-laska-opravdiva.md" >}}).
+![](/img/Kde_je_láska_opravdivá_floralwhite.png)
+* úkon kajúcnosti
+* bohoslužba slova
+* kázeň
+* manželský sľub a prísaha
+* prosby veriacich
+* bohoslužba obety
+* prijímanie
+* záverečná modlitba
 * podpis zápisnice
-* závěrečný průvod
+* záverečný sprievod
 
-Detailní řád mše včetně odpovědí a kompletního textu písně naleznete [v mešním řádu]({{< ref "omsovy-poriadok.md" >}}).
 
-Po obřadě rádi přijmeme gratulace a poté se přesuneme do Prešova, kde budeme mít veselku.
+Detailný omšový poriadok vrátane odpovedí nájdete v [omšovom poriadku]({{< ref "omsovy-poriadok.md" >}}).
 
+Po obrade radi prijmeme gratulácie a potom sa presunieme do Prešova, kde bude prebiehať svadobná hostina.

@@ -1,13 +1,12 @@
 ---
-title: "Bašavel"
-slug: "basavel"
+title: "Svadobná hostina"
+slug: "hostina"
 ---
-BUDE PO PŘELOŽENÍ NÁSLEDOVAT SLOVENSKÝ TEXT
+Z Prešova do Hanušoviec a naspäť bude v deň svadby objednaný autobus. Pre hostí, ktorí nevyužijú autobusovú dopravu bude najjednoduchšie zaparkovať v blízkosti svojho ubytovania.
 
-Z Hanušoviec do Prešova (a v noci zpět) bude vypraven autobus. Pro hosty, kteří nevyužijí autobusovou dopravu z místa obřadu do Prešova bude nejjednodušší zaparkovat u jednoho z možných ubytování.
+Svadobná hostina bude prebiehať v priestoroch Parku kultury a oddychu [Čierny Orol](https://pkopresov.sk/pko-cierny-orol.html) (PKO) v Prešove.
 
-Veselka bude probíhat v prostorách Parku kultury a oddechu [Čierny Orol](https://pkopresov.sk/pko-cierny-orol.html) (PKO) v Prešově.
+Po obrade sa medzi 16. a 17. hodinou presunieme do PKO, kde budeme pokračovať večerou. Po večeri si možete zatancovať a zaspievať za doprovodu [Muziky Milana Rendoša](http://www.rendosovci.sk/).
 
-Po obřadu se mezi 17. a 18. hodinou přesuneme do PKO, kde budeme pokračovat večeří. Po večeři si můžete zatančit a zazpívat za doprovodu [Muziky Milana Rendoša](http://www.rendosovci.sk/).
+V 23:30 prebehne *čepčenie nevesty* a o polnoci *redový tanec*.
 
-V 23:30 proběhne čepčenie nevěsty a o půlnoci redový tanec.

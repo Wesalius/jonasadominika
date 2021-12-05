@@ -33,14 +33,20 @@ a {
 }
 
 img {
-  max-width: 80%;
+  max-width: 100%;
   height: auto;
   padding: 14px;
 }
 
 h1 {
   text-align: center;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
   }
+
+p {
+  margin-top: 0px;
+}
 
 odpoved {
   color: red;
@@ -53,16 +59,8 @@ eucharistie {
   text-align: center;
 }
 
-todo {
-  background-color: yellow;
-}
-
-oznameni {
-  display: block;
+.fade-in-image {
   text-align: center;
-  font-family: "Allura", cursive;
-  font-size: 250%;
-  line-height: 120%;
   animation: fadein 3s;
   -moz-animation: fadein 3s; /* Firefox */
   -webkit-animation: fadein 3s; /* Safari and Chrome */

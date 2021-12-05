@@ -65,13 +65,13 @@ disableKinds = ['taxonomy', 'term']
     weight = 2
 
 [[languages.sk.menu.main]]
-    url = "/sk/sobas/"
-    name = "Sobáš"
+    url = "/sk/obrad/"
+    name = "Obrad"
     weight = 3
 
 [[languages.sk.menu.main]]
-    url = "/sk/basavel/"
-    name = "Bašavel"
+    url = "/sk/hostina/"
+    name = "Hostina"
     weight = 4
 
 [[languages.sk.menu.main]]

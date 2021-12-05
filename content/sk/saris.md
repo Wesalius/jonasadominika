@@ -1,18 +1,21 @@
 ---
 title: "Šariš"
 ---
-BUDE PO PŘELOŽENÍ NÁSLEDOVAT SLOVENSKÝ TEXT
+Pokiaľ sa rozhodnete využiť cestu na východ Slovenska k poznávaniu zaujímavostí šarišského regiónu, máme pre Vás niekoľko tipov:
 
-Pokud se rozhodnete využít cestu na východ Slovenska také k poznávání zajímavostí šarišského regionu, máme pro Vás několik tipů:
-### hanušovský Kaštiel
-v sousedství kostela, ve kterém budeme oddáni, se nachází barokní zámek z 18. století zbudovaný rodinou Dessewffy \[Dežefi\]. Uvnitř se nachází historické, přírodovědné a etnografické [muzeum](https://tripolitana.sk/kastiel-hanusovce/expozicie/).
+### hanušovský Velký kaštieľ
+v sousedství kostela, ve kterém budeme oddáni, se nachází barokní zámek z 18. století zbudovaný rodem Dessewffy \[Dežefi\]. V kaštieli sa nachádza historické, prírodovedné a etnografické [múzeum](https://tripolitana.sk/kastiel-hanusovce/expozicie/).
+
 ### prešovský Solivar
-je zároveň městská část Prešova a několik technických [památek](https://muzeumsolivar.sk/), které sloužily k těžbě a zpracování solanky na krystalickou sůl.
-### Slánské vrchy
-s [nejvyšším vrchem Šimonkou](https://mapy.cz/s/henabokere) se táhnou od Prešova až k maďarskému městu Tokaj. Krom nespočtu turistických tras stojí za návštěvu také [naleziště slovenských opálů](https://mapy.cz/s/kubobovalu) u osady Dubník. V areálů baní hibernuje 11 druhů netopýrů.
-### Bardějov
-je malebné město [40 km severně](https://mapy.cz/s/cufulenegu) od Prešova, jehož centrum je zařazené mezi lokality Světového dědictví UNESCO. Mezi populární akce patří bardějovský jarmark, pravidelně konaný na přelomu srpna a září. Načerpat síly po intenzivní veselce můžete ve wellness známých [bardějovských kúpelí](https://www.kupele-bj.sk/).
-### Velká Domaša
-je přehrada vzdálená [45 minut jízdy autem](https://mapy.cz/s/fubefajodu) z Prešova, které se také přezdívá Slovenské moře. Skýtá příležitosti ke koupání nebo [plavbu lodí](https://plavbydomasa.sk/) Bohemia, která v roce 2019 doputovala na přehradu až z Prahy. Vzala to ovšem 2800 km dlouhou oklikou přes řeky [půlku Evropy](https://www.domasacity.sk/sk/uvod/clanok/denne-aktualizovany-lodny-dennik-z-lode-bohemia-na-ceste-z-prahy-na-domasu).
+táto technická [pamiatka](https://muzeumsolivar.sk/) sa nachádza v rovnomennej mestskej časti Prešova. Solivar slúžil k  získavaniu kryštalickej soli zo soľanky.
 
-Milovníkům vodáckého sportu můžeme rozhodně doporučit splutí dolního toku řeky Ondavy, na které Domaša leží. V případě zájmu můžeme poradit s vhodným místem nástupu a výstupu či s půjčovnou lodí.
+### Slanské vrchy
+s [nnajvyšším vrchom Šimonkou](https://mapy.cz/s/henabokere) se tiahnu od Prešova až k maďarskému mestu Tokaj. Okrem nespočetných turistických trás stojí za návštěvu tiež [nalezisko slovenských opálov](https://mapy.cz/s/kubobovalu) u osady Dubník. V areáli baní hibernuje 11 druhov netopierov.
+
+### Bardejov
+je malebné mesto [40 km severne](https://mapy.cz/s/cufulenegu) od Prešova. Jeho centrum je zaradené medzi lokality Svetového dedičstva UNESCO. Medzi populárne akcie patrí bardejovský jarmok, pravidelne konaný na prelome augusta a septembra. Načerpať sily po intenzívnej veselke môžete vo wellness známych [bardejovských kúpeľov](https://www.kupele-bj.sk/).
+
+### Veľká Domaša
+je priehrada vzdialená [45 minut jazdy autom](https://mapy.cz/s/fubefajodu) z Prešova, ktorá je občas označovaná ako Slovenské more. Ponúka príležitosť kúpania alebo [plavbu loďou](https://plavbydomasa.sk/) Bohemia, ktorá v roku 2019 doputovala na priehradu až z Prahy. Vzala to ale 2800 km dlhou okľukou cez rieky [polovice Európy](https://www.domasacity.sk/sk/uvod/clanok/denne-aktualizovany-lodny-dennik-z-lode-bohemia-na-ceste-z-prahy-na-domasu).
+
+Milovníkom vodáckeho športu môžeme rozhodne odporučiť splav dolného toku rieky Ondavy, na ktorej Domaša leží. V prípade záujmu radi poradíme s vhodným miestom nástupu a výstupu či s požičovňou lodí.
