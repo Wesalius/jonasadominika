@@ -4,7 +4,7 @@
 
 #nav a {
   text-align: center;
-  padding: 14px 16px;
+  padding: 8px 10px;
   text-decoration: none;
   color:Gray;
 }
@@ -57,6 +57,17 @@ eucharistie {
   display: block;
   font-weight: bold;
   text-align: center;
+}
+
+table.center, tr, td {
+    margin-left:auto;
+    margin-right:auto;
+
+    border-top:1px solid DimGray;
+    border-collapse:collapse;
+    padding-left:15px;
+    padding-right:15px;
+    text-align:center;
 }
 
 .fade-in-image {

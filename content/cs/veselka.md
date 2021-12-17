@@ -7,4 +7,4 @@ Svatební hostina bude probíhat v prostorách Parku kultury a oddechu [Čierny 
 
 Po obřadu se mezi 17. a 18. hodinou přesuneme do PKO, kde budeme pokračovat večeří. Po večeři si můžete zatančit a zazpívat za doprovodu [Muziky Milana Rendoša](http://www.rendosovci.sk/).
 
-V 23:30 proběhne *čepčenie nevěsty* a o půlnoci *redový tanec*.
+V 23:30 proběhne *čepení nevěsty* a o půlnoci *redový tanec*.
