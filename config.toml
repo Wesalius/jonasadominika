@@ -85,6 +85,11 @@ disableKinds = ['taxonomy', 'term']
     weight = 5
 
 [[languages.sk.menu.main]]
+    url = "/sk/slovnik/"
+    name = "Slovník"
+    weight = 6
+
+[[languages.sk.menu.main]]
     url = "/sk/saris/"
     name = "Šariš"
-    weight = 6
+    weight = 7
