@@ -23,4 +23,4 @@ Obrad bude mať tieto časti:
 
 Detailný omšový poriadok vrátane odpovedí nájdete v [omšovom poriadku]({{< ref "omsovy-poriadok.md" >}}).
 
-Po obrade radi prijmeme gratulácie a potom sa presunieme do Prešova, kde bude prebiehať svadobná hostina.
+Po obrade radi prijmeme gratulácie a potom sa presunieme do Prešova, kde bude prebiehať svadobná hostina. Prosíme svadobných hostí, aby nám nenosili rezané kvetiny. Šetríte nie len životné prostredie, ale aj Vaše peňaženky

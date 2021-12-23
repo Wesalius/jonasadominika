@@ -22,4 +22,4 @@ Obřad bude mít tyto části:
 
 Detailní řád mše včetně odpovědí naleznete [v mešním řádu]({{< ref "omsovy-poriadok.md" >}}).
 
-Po obřadě rádi přijmeme gratulace a poté se přesuneme do Prešova, kde budeme mít veselku.
+Po obřadě rádi přijmeme gratulace a poté se přesuneme do Prešova, kde budeme mít veselku. Prosíme hosty, aby nám nenosili řezané květiny. Šetříte nejen životní prostředí, ale i vaše peněženky.

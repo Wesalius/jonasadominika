@@ -12,16 +12,12 @@ title: "Slovník"
 <td>vešele</td>
 </tr>
 <tr>
-<td>sličná dívka</td>
-<td>čaja</td>
-</tr>
-<tr>
-<td>sličný chlapec</td>
-<td>šrac</td>
-</tr>
-<tr>
 <td>velmi</td>
 <td>bars</td>
+</tr>
+<tr>
+<td>velmi se mi líbíš</td>
+<td>bars še mi ľubiš</td>
 </tr>
 <tr>
 <td>smím prosit?</td>

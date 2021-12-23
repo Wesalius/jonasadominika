@@ -1,7 +1,7 @@
 ---
 title: "Ubytování v Prešově"
 ---
-Následující penziony a hotely jsou v dochůzkové vzdálenosti od místa konání veselky [(PKO Čierny Orol)](https://mapy.cz/s/pupenajocu). Žádná z lokalit není vzdálená víc než 10 minut pěší chůzí.
+Hromadné ubytování nebude zajištěné. Pro jednodušší orientaci uvádíme penziony a hotely, které jsou vzdálené méně než 10 minut pěší chůzí (za střízliva) od místa konání veselky [(PKO Čierny Orol)](https://mapy.cz/s/pupenajocu).
 
 *   [Penzión A7 AVENUE 7](https://www.avenue7.sk/index.php/sk/): 18 metrů z PKO
 *   [Penzión Tavel](http://www.penziontavel.sk/): 156 metrů z PKO

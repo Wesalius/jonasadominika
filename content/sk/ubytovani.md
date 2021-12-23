@@ -2,7 +2,7 @@
 title: "Ubytování v Prešově"
 slug: "ubytovanie"
 ---
-Nasledujúce penzióny a hotely sú v dochádzkovej vzdialenosti od miesta konania svadobnej hostiny [(PKO Čierny Orol)](https://mapy.cz/s/pupenajocu). Žiadna z lokalit nie je vzdialená viac než 10 minut peši.
+Hromadné ubytovanie nebude zaistené. Pre jednoduchšiu orientáciu uvádzame penzióny a hotely, ktoré sú vzdialené menej ako 10 minút pešou chôdzou (za triezva) od miesta konania svadobnej hostiny [(PKO Čierny Orol)](https://mapy.cz/s/pupenajocu).
 
 *   [Penzión A7 AVENUE 7](https://www.avenue7.sk/index.php/sk/): 18 metrov z PKO
 *   [Penzión Tavel](http://www.penziontavel.sk/): 156 metrov z PKO
