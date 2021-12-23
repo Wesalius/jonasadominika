@@ -14,5 +14,5 @@ V deň obradu Vás radi privítame v [Hanušovciach nad Topľou](https://mapy.cz
         *   z Prahy cez Ostravu: asi 8,5 hodiny
         *   z Brna cez Bratislavu: asi 7,5 hodiny
         *   z Bratislavy: 4,5-6,5 hodiny
-*    lietadlom na medzinárodné [letisko v Košiciach](https://www.airportkosice.sk/)
+*  lietadlom na medzinárodné [letisko v Košiciach](https://www.airportkosice.sk/)
     *   [Ryanair](https://www.ryanair.com/) z Prahy: 2.9.2021, let o o dĺžke hodina a desať minút
