@@ -15,5 +15,5 @@ V den obřadu Vás rádi uvítáme v [Hanušovciach nad Topľou](https://mapy.cz
         *   z Brna přes Bratislavu: asi 7,5 hodiny
         *   z Bratislavy: 4,5-6,5 hodiny
 *  letadlem na mezinárodní [letiště v Košicích](https://www.airportkosice.sk/)
-    *   [Ryanair](https://www.ryanair.com/) z Prahy: 2.9.2021, let o délce hodina a deset minut
+    *   [Ryanair](https://www.ryanair.com/) z Prahy: 2.9.2022, let o délce hodina a deset minut
 
